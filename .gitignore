@@ -1,0 +1,6 @@
+#Ignorar log
+*.log
+
+#Ignorar temporales
+config/
+temp/
