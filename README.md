@@ -9,10 +9,31 @@
 
 ###2. Inicializa Git:
 
-![ex1](./img/cap2.png)
+![ex1-2](./img/cap2.png)
 
-![ex1](./img/cap3.png)
+- **¿Qué es el archivo .gitignore y para que sirve?**Es un archivo oculto para indicar lo que tiene que ignorar el repositorio
+
+![e1-3](./img/cap3.png)
 
 ###3. Primera confirmación:
 
-![ex1](./img/cap4.png)
+![ex1-4](./img/cap4.png)
+
+##Parte 2: Colaboración en Equipo
+
+##1.Configura del repositorio remoto:
+
+- **¿Qué pasa si creo un repositorio con el archivo README.md desde GitHub?** Sale el repositorio solo con el archivo README.md.
+- **¿Qué pasa si crea un repositorio sin el archivo README.md desde GitHub?** Sale el repositorio vacio con un enlace para copiarlo y poder clonarlo.
+
+	echo "# Practica3-GitHub" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git branch -M main
+	git remote add origin https://github.com/Dani-Alarcon/Practica3-GitHub.git
+	git push -u origin main
+
+##2. Actualización del Proyecto:
+
+![ex2-1](./img/cap5.png)
