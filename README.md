@@ -1,7 +1,7 @@
-#Práctica 3 - GitHub y repositorio remoto
-##Dani Alarcón
+# Práctica 3 - GitHub y repositorio remoto
+## Dani Alarcón
 
-##Parte 1: Preparación del Proyecto
+## Parte 1: Preparación del Proyecto
 
 ### 1. Crear directorios y archivos:
 
@@ -38,9 +38,9 @@
 
 ![ex2-1](./img/cap5.png)
 
-## Parte 3: Gestión de Archivos y Cambios
+### Parte 3: Gestión de Archivos y Cambios
 
-### 1.Ediciones rápidas:
+## 1.Ediciones rápidas:
 
 	**git status**
 ![ex3-1](./img/cap6.png)
@@ -52,3 +52,15 @@
 ![ex3-3](./img/cap8.png)
 
 ## 2.Borrado y recuperación:
+
+![ex3-4](./img/cap9.png)
+
+## 3.Combina ramas:
+
+![ex3-5](./img/cap10.png)
+
+### Parte 4: Entrega del Proyecto
+
+### 1.Ultimos pasos
+
+![ex4-1](./img/cap11.png)
